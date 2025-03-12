@@ -1,0 +1,33 @@
+
+header{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header div{
+    padding: 50px 25px;
+}
+
+header div:last-child{
+    flex-basis: 30%;
+    text-align: center;
+}
+
+img{
+    width: 250px;
+}
+
+h1, h2{
+    margin: 0;
+}
+
+h1{
+    font-size: 300%;
+    font-weight: 400;
+}
+
+h2{
+    font-weight: 200;
+}
