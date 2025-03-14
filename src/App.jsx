@@ -15,7 +15,7 @@ function App() {
                 <Link to="skills" smooth={true} duration={500} >Skills</Link>
                 <Link to="work" smooth={true} duration={600} >Work</Link>
                 <Link to="projects" smooth={true} duration={700} >Projects</Link>
-                <Link to="contact" smooth={true} duration={800} >Contact me</Link>
+                <Link to="contact" smooth={true} duration={900} >Contact me</Link>
             </nav>
         </div>
         <main>
