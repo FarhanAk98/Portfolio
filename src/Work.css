@@ -16,7 +16,7 @@
 
 #experience h2{
     height: fit-content;
-    flex-basis: 52%;
+    flex-basis: 30%;
     padding-right: 20px;
     border-right: solid var(--color-four) 1px;
 }
