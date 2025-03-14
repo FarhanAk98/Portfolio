@@ -49,3 +49,18 @@ h1{
 h2{
     font-weight: 200;
 }
+
+@media only screen and (max-width: 480px) {
+    header{
+        flex-direction: column-reverse;
+        height: auto;
+    }
+
+    header > div:last-child {
+        padding-bottom: 10px;
+    }
+
+    header > div:first-child {
+        padding-top: 10px;
+    }
+}

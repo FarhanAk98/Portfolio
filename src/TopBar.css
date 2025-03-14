@@ -31,3 +31,13 @@
     font-size: x-large;
     font-weight: 400;
 }
+
+@media only screen and (max-width: 480px){
+    #topbar h4{
+        flex-basis: 10%;
+    }
+
+    #topbar nav{
+        flex-basis: 70%;
+    }
+}

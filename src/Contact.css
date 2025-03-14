@@ -41,3 +41,9 @@
 #contacts a:hover{
     transform: scale(1.08);
 }
+
+@media only screen and (max-width: 480px){
+    #contacts a{
+        margin: 0;
+    }
+}

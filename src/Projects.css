@@ -51,3 +51,14 @@
 .project > img{
     width: 300px;
 }
+
+@media only screen and (max-width: 480px){
+    .project{
+        flex-direction: column;
+        box-shadow: 0px 0.5px 0px 0.5px var(--color-four);
+    }
+
+    .project div{
+        text-align: center;
+    }
+}
