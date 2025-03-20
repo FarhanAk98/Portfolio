@@ -11,12 +11,12 @@ function Heading() {
                 <h1>Farhan Akhtar</h1>
                 <h2>Full Stack Developer</h2>
                 <h2>Welcome to my personal website</h2>
-                <a href={resume} download>
+                {/* <a href={resume} download>
                     <div>
                         Resume
                         <img className='logos' src={download} alt="download logo" />
                     </div>
-                </a>
+                </a> */}
             </div>
             <div>
                 <img src={image} alt="pic" />
