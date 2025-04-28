@@ -28,7 +28,7 @@ function Contact(){
             </div>
             <div>
                 <p><strong>Email:</strong> farhan97parvez@gmail.com</p>
-                <p><strong>Phone:</strong> +122689914548</p>
+                <p><strong>Phone:</strong> +12268991548</p>
             </div>
         </div>
     );
